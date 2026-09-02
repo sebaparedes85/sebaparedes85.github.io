@@ -1,13 +1,16 @@
 {
-  "catchButton": {
-    "text": "Todo juego deberia tener un premio al terminarlo no? Descubrelo haciendo click en el corazon",
-    "width": "100%",
-    "height": 460,
-    "intervalSeconds": 0.8
-  },
-  "fillWithLove": {
-    "clicksToFill": 15,
-    "decayIntervalMs": 200,
-    "decayAmount": 5
-  }
+    "catchButton": {
+        "text": "Todo juego deberia tener un premio al terminarlo no? Descubrelo haciendo click en el corazon",
+        "width": "100%",
+        "height": 460,
+        "intervalSeconds": 2
+    },
+    "fillWithLove": {
+        "clicksToFill": 15,
+        "decayIntervalMs": 200,
+        "decayAmount": 5
+    },
+    "gallery": {
+        "musicSrc": "audio/DeLaIlusionAlMiedo.mp3"
+    }
 }
