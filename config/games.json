@@ -3,7 +3,7 @@
         "text": "Todo juego deberia tener un premio al terminarlo no? Descubrelo haciendo click en el corazon",
         "width": "100%",
         "height": 460,
-        "intervalSeconds": 0.5
+        "intervalSeconds": 0.8
     },
     "fillWithLove": {
         "clicksToFill": 15,
